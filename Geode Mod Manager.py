@@ -556,7 +556,7 @@ def show_mod_info(frame):
     )
 
 # =========================================================
-# Settings Page
+# Setting Page
 # =========================================================
 tk.Label(settings_page, text="Geode Settings",
          font=("Segoe UI", 18, "bold"),
